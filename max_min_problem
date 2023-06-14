@@ -1,0 +1,4 @@
+最大最小值的问题解法：
+1. subquery 中使用 RANK/ DENSE_RANK/ ROW_NUMBER，mainquery中选max/min（xx），rank = xx
+example：leetcode 176
+
